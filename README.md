@@ -1,4 +1,7 @@
 # React Weather App
+
+## Live site: https://magical-khapse-332262.netlify.app/
+
 This is a simple weather app built with React that allows users to search for and view the current weather conditions in a given city.
 
 The app makes use of the OpenWeatherMap API to fetch and display the weather data. It displays the current temperature, humidity, and a brief summary of the weather conditions for the selected city.
